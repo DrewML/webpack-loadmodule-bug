@@ -1,0 +1,14 @@
+{
+  "name": "webpack-loadmodule-bug",
+  "version": "1.0.0",
+  "description": "Minimal example for webpack bug",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "Andrew Levine",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
